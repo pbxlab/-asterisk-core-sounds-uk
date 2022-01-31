@@ -1,2 +1,3 @@
-# -asterisk-core-sounds-uk
+asterisk-core-sounds-uk
+
 Core Asterisk Sounds in Ukrainian (PBXLab)
